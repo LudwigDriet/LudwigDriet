@@ -2,7 +2,7 @@
 <h3 align="center">Full Stack Developer</h3>
 <h4>I live in Buenos Aires Argentina and I am Full-Stack Developer 👨💻 self-taught and versatile who is always learning and applying everything✍️👨🔧. I also enjoy passing on knowledge and working in a team.
 </h4>
-<img src="https://media3.giphy.com/media/ln7z2eWriiQAllfVcn/200w.webp" width="100"><img src="https://i.giphy.com/media/LMt9638dO8dftAjtco/200.webp" width="100">
+<img src="https://media3.giphy.com/media/ln7z2eWriiQAllfVcn/200w.webp" width="100">
 - 🔭 I’m currently working on **a Final Project at Henry Bootcamp**
 
 - 🌱 I’m currently learning **Typescript**
