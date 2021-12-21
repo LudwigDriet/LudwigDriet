@@ -1,8 +1,9 @@
 <h1 align="center">Hi 👋, I'm Ludwig Driet</h1>
 <h3 align="center">Full Stack Developer</h3>
+<img align='right' src='https://media.giphy.com/media/bcKmIWkUMCjVm/giphy.gif' width='200"'>
 <h4>I live in Buenos Aires Argentina and I am Full-Stack Developer 👨💻 self-taught and versatile who is always learning and applying everything✍️👨🔧. I also enjoy passing on knowledge and working in a team.
 </h4>
-<img align='right' src='https://media.giphy.com/media/bcKmIWkUMCjVm/giphy.gif' width='200"'>
+
 - 🔭 I’m currently working on **a Final Project at Henry Bootcamp**
 
 - 🌱 I’m currently learning **Typescript**
